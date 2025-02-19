@@ -17,7 +17,7 @@ This file contains the data preprocessing part of the code. It reads the output 
 
 ## Analyze_prave.py
 
-This file contains the output analyzing part of the code. It reads the output of neural network and outputs the combination coefficients. It will be called by P_rave.py automatically. It is also useful to run this file separately in the situations that the main code is still running or stop before finishing due to running out of time on HPC. 
+This file contains the output analyzing part of the code. It reads the output of neural network training and outputs the combination coefficients. It will be called by P_rave.py automatically. It is also useful to run this file separately in the situations that the main code is still running or stop before finishing due to running out of time on HPC. 
 
 
 Usage:
